@@ -1,2 +1,2 @@
-# First_Steps_in_CSS
+# HTML_Chapter_Project
 Created with CodeSandbox
